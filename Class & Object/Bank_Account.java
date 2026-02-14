@@ -1,3 +1,4 @@
+//1. Create a BankAccount class with private attributes (accountNumber, balance). Implement getter and setter methods, ensuring the balance cannot be set to a negative value.
 class BankAccount {
     private double balance; // private variable
     // Constructor to set initial balance
